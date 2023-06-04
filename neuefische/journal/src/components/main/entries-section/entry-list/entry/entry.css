@@ -1,0 +1,19 @@
+.entry {
+  margin: 0;
+}
+.date {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1em;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.favbutton {
+  top: 0;
+  right: 0;
+}
