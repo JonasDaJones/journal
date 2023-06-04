@@ -1,0 +1,12 @@
+.submit--button {
+  color: var(--color-foam);
+  background-color: var(--color-nemo);
+}
+
+.submit--button :hover {
+  background-color: var(--color-nemo-dark);
+}
+
+.submit--button :active {
+  background-color: var(--color-nemo-mid);
+}
