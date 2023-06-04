@@ -1,0 +1,12 @@
+.fav--count {
+  max-height: fit-content;
+  background-color: lightgrey;
+  color: black;
+  padding: 0.1em 0.7em;
+  border-radius: 30%;
+}
+
+.fav--count p {
+  font-size: smaller;
+  margin: 0;
+}
